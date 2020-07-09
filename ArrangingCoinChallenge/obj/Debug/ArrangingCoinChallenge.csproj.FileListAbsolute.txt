@@ -1,0 +1,5 @@
+E:\Projects\ArrangingCoinChallenge\ArrangingCoinChallenge\bin\Debug\ArrangingCoinChallenge.exe
+E:\Projects\ArrangingCoinChallenge\ArrangingCoinChallenge\bin\Debug\ArrangingCoinChallenge.pdb
+E:\Projects\ArrangingCoinChallenge\ArrangingCoinChallenge\obj\Debug\ArrangingCoinChallenge.csprojAssemblyReference.cache
+E:\Projects\ArrangingCoinChallenge\ArrangingCoinChallenge\obj\Debug\ArrangingCoinChallenge.exe
+E:\Projects\ArrangingCoinChallenge\ArrangingCoinChallenge\obj\Debug\ArrangingCoinChallenge.pdb
